@@ -1,0 +1,15 @@
+Xin chào, tôi là Nguyễn Minh Phú.
+Tôi là sinh viên CNTT tại trường DNC.
+Tôi yêu thích công nghệ và lập trình.
+Tôi muốn học Git để quản lý code tốt hơn.
+Tôi mong muốn trở thành lập trình viên giỏi.
+
+Sở thích:
+- Đọc sách
+- Chơi thể thao
+- Lập trình
+
+Kỹ năng:
+- Lập trình Python
+- HTML/CSS
+- Git cơ bản
