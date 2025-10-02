@@ -1,5 +1,3 @@
 - Git giúp quản lý phiên bản dễ dàng
 - Git hỗ trợ làm việc nhóm hiệu quả
 - Git giúp lưu lịch sử thay đổi
-- Git có nhiều lệnh nâng cao
-- Git giúp rollback dễ dàng
