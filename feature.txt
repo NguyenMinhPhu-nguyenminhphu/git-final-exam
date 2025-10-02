@@ -1,0 +1,6 @@
+# New Feature: User Management
+- Cho phép người dùng đăng ký tài khoản
+- Đăng nhập bằng email và mật khẩu
+- Reset mật khẩu qua email
+- Cập nhật hồ sơ cá nhân
+- Hỗ trợ xác thực hai lớp (2FA)
