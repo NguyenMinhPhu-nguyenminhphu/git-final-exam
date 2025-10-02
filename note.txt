@@ -1,3 +1,5 @@
 - Git giúp quản lý phiên bản hiệu quả
 - Dễ dàng làm việc nhóm
 - Hỗ trợ rollback khi gặp lỗi
+- Ban đầu hơi khó nhưng quen sẽ thấy dễ
+- Giúp học kỹ năng làm việc chuyên nghiệp
